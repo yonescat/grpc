@@ -40,7 +40,7 @@
   ],
   "dependencies": {
     "lodash.camelcase": "^4.3.0",
-    "protobufjs": "^6.8.6"
+    "protobufjs": "https://github.com/danieldanielecki/protobufjs-angularfire"
   },
   "devDependencies": {
     "@types/lodash.camelcase": "^4.3.4",
